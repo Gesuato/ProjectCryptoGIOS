@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14133" systemVersion="17F77" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Account" representedClassName="Account" syncable="YES" codeGenerationType="class">
+        <attribute name="password" attributeType="String" syncable="YES"/>
+        <attribute name="profilePicture" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="secretAnswer" attributeType="String" syncable="YES"/>
+        <attribute name="secretQuestion" attributeType="String" syncable="YES"/>
+        <attribute name="userName" attributeType="String" syncable="YES"/>
+        <relationship name="favoritesCoins" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="FavoriteCoin" inverseName="account" inverseEntity="FavoriteCoin" syncable="YES"/>
+    </entity>
+    <entity name="AccountFacebook" representedClassName="AccountFacebook" syncable="YES" codeGenerationType="class">
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="profilPicture" optional="YES" attributeType="Binary" syncable="YES"/>
+        <relationship name="favoriteCoins" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="FavoriteCoin" inverseName="accountFacebook" inverseEntity="FavoriteCoin" syncable="YES"/>
+    </entity>
+    <entity name="FavoriteCoin" representedClassName="FavoriteCoin" syncable="YES" codeGenerationType="class">
+        <attribute name="coinName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="conversionValueBRL" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="conversionValueCAD" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="iconMoney" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="imageUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="symbol" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="account" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Account" inverseName="favoritesCoins" inverseEntity="Account" syncable="YES"/>
+        <relationship name="accountFacebook" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="AccountFacebook" inverseName="favoriteCoins" inverseEntity="AccountFacebook" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Account" positionX="-63" positionY="-18" width="128" height="135"/>
+        <element name="AccountFacebook" positionX="-45" positionY="63" width="128" height="105"/>
+        <element name="FavoriteCoin" positionX="-36" positionY="27" width="128" height="165"/>
+    </elements>
+</model>

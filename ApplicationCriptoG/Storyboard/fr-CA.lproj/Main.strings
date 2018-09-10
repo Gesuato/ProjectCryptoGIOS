@@ -1,0 +1,246 @@
+
+/* Class = "UILabel"; text = "Bitcoin"; ObjectID = "0KX-0n-fLh"; */
+"0KX-0n-fLh.text" = "Bitcoin";
+
+/* Class = "UIBarButtonItem"; title = "Annuler"; ObjectID = "0P7-Ei-8O1"; */
+"0P7-Ei-8O1.title" = "Annuler";
+
+/* Class = "UITextField"; placeholder = "Mot de passe"; ObjectID = "12H-gb-c0z"; */
+"12H-gb-c0z.placeholder" = "Mot de passe";
+
+/* Class = "UILabel"; text = "Langues"; ObjectID = "2ip-jO-eYg"; */
+"2ip-jO-eYg.text" = "Langues";
+
+/* Class = "UILabel"; text = "Cardano"; ObjectID = "2j5-Ym-cwR"; */
+"2j5-Ym-cwR.text" = "Cardano";
+
+/* Class = "UITextField"; placeholder = "Réponse secrète"; ObjectID = "5bq-K9-Idd"; */
+"5bq-K9-Idd.placeholder" = "Réponse secrète";
+
+/* Class = "UILabel"; text = "Réglages"; ObjectID = "6Aq-rZ-uk4"; */
+"6Aq-rZ-uk4.text" = "Réglages";
+
+/* Class = "UITabBarItem"; title = "Profil"; ObjectID = "7ZB-Gl-J6o"; */
+"7ZB-Gl-J6o.title" = "Profil";
+
+/* Class = "UITextField"; placeholder = "Nouveau nom d'utilisateur"; ObjectID = "7ZB-Gt-f6f"; */
+"7ZB-Gt-f6f.placeholder" = "Nouveau nom d'utilisateur";
+
+/* Class = "UILabel"; text = "Mode noir"; ObjectID = "7uI-y6-DGc"; */
+"7uI-y6-DGc.text" = "Mode noir";
+
+/* Class = "UILabel"; text = "BRL"; ObjectID = "8AO-hn-jUt"; */
+"8AO-hn-jUt.text" = "BRL";
+
+/* Class = "UITextField"; placeholder = "Nom d'utilisateur"; ObjectID = "8UN-I1-N9M"; */
+"8UN-I1-N9M.placeholder" = "Nom d'utilisateur";
+
+/* Class = "UITabBarItem"; title = "Réglages"; ObjectID = "8Zz-Le-leT"; */
+"8Zz-Le-leT.title" = "Réglages";
+
+/* Class = "UILabel"; text = "Nom d'utilisateur :"; ObjectID = "8na-Ni-U8w"; */
+"8na-Ni-U8w.text" = "Nom d'utilisateur :";
+
+/* Class = "UITextField"; placeholder = "Nouvelle question secrète"; ObjectID = "9Fp-J4-1rT"; */
+"9Fp-J4-1rT.placeholder" = "Nouvelle question secrète";
+
+/* Class = "UITextField"; placeholder = "Confirmer le mot de passe"; ObjectID = "9za-eY-egx"; */
+"9za-eY-egx.placeholder" = "Confirmer le mot de passe";
+
+/* Class = "UILabel"; text = "CriptoG"; ObjectID = "AFp-WM-hiE"; */
+"AFp-WM-hiE.text" = "CriptoG";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "AS3-00-0S9"; */
+"AS3-00-0S9.text" = "*";
+
+/* Class = "UIButton"; normalTitle = "Confirmer"; ObjectID = "BcN-6b-m7j"; */
+"BcN-6b-m7j.normalTitle" = "Confirmer";
+
+/* Class = "UIButton"; normalTitle = "Se déconnecter"; ObjectID = "CiQ-zK-cTC"; */
+"CiQ-zK-cTC.normalTitle" = "Se déconnecter";
+
+/* Class = "UIButton"; normalTitle = "Créer un compte"; ObjectID = "DcR-Rp-RdV"; */
+"DcR-Rp-RdV.normalTitle" = "Créer un compte";
+
+/* Class = "UITextField"; placeholder = "Réponse secrète"; ObjectID = "DqC-IF-zmx"; */
+"DqC-IF-zmx.placeholder" = "Réponse secrète";
+
+/* Class = "UITextField"; placeholder = "Mot de passe"; ObjectID = "E8P-Jg-msU"; */
+"E8P-Jg-msU.placeholder" = "Mot de passe";
+
+/* Class = "UIButton"; normalTitle = "Confirmer"; ObjectID = "GoA-uc-aez"; */
+"GoA-uc-aez.normalTitle" = "Confirmer";
+
+/* Class = "UITextField"; placeholder = "Nom d'utilisateur"; ObjectID = "HHJ-sD-joL"; */
+"HHJ-sD-joL.placeholder" = "Nom d'utilisateur";
+
+/* Class = "UIButton"; normalTitle = "Confirmer"; ObjectID = "HSZ-QC-GWn"; */
+"HSZ-QC-GWn.normalTitle" = "Confirmer";
+
+/* Class = "UILabel"; text = "Profil"; ObjectID = "HZ2-v8-LsA"; */
+"HZ2-v8-LsA.text" = "Profil";
+
+/* Class = "UITabBarItem"; title = "Pays de visite"; ObjectID = "Hoi-in-4lx"; */
+"Hoi-in-4lx.title" = "Pays de visite";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "IOM-Pr-eIp"; */
+"IOM-Pr-eIp.text" = "*";
+
+/* Class = "UILabel"; text = "Version 1.0"; ObjectID = "IQX-iM-T4P"; */
+"IQX-iM-T4P.text" = "Version 1.0";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "Jxu-ZJ-hP3"; */
+"Jxu-ZJ-hP3.text" = "*";
+
+/* Class = "UILabel"; text = "Question Secret"; ObjectID = "K8y-Vh-UvI"; */
+"K8y-Vh-UvI.text" = "Question Secret";
+
+/* Class = "UITextField"; placeholder = "Nouvelle réponse secrète"; ObjectID = "KO3-2v-9Ya"; */
+"KO3-2v-9Ya.placeholder" = "Nouvelle réponse secrète";
+
+/* Class = "UITabBarItem"; title = "Mes favoris"; ObjectID = "MNg-73-fBd"; */
+"MNg-73-fBd.title" = "Mes favoris";
+
+/* Class = "UITextField"; placeholder = "Ancien mot de passe"; ObjectID = "MeR-tv-pbZ"; */
+"MeR-tv-pbZ.placeholder" = "Ancien mot de passe";
+
+/* Class = "UIButton"; normalTitle = "Confirmer"; ObjectID = "OL0-AT-PRe"; */
+"OL0-AT-PRe.normalTitle" = "Confirmer";
+
+/* Class = "UITextField"; placeholder = "Mot de passe"; ObjectID = "OYa-WP-HBk"; */
+"OYa-WP-HBk.placeholder" = "Mot de passe";
+
+/* Class = "UIButton"; normalTitle = "🇧🇷"; ObjectID = "Ofp-pF-wdE"; */
+"Ofp-pF-wdE.normalTitle" = "🇧🇷";
+
+/* Class = "UITextField"; placeholder = "Confirmer le mot de passe"; ObjectID = "QLb-Zd-eRj"; */
+"QLb-Zd-eRj.placeholder" = "Confirmer le mot de passe";
+
+/* Class = "UIButton"; normalTitle = "Visiter"; ObjectID = "QxM-rj-x5n"; */
+"QxM-rj-x5n.normalTitle" = "Visiter";
+
+/* Class = "UIButton"; normalTitle = "Confirmer"; ObjectID = "SX4-kF-KtU"; */
+"SX4-kF-KtU.normalTitle" = "Confirmer";
+
+/* Class = "UIButton"; normalTitle = "🇫🇷"; ObjectID = "U8j-Lx-Oig"; */
+"U8j-Lx-Oig.normalTitle" = "🇫🇷";
+
+/* Class = "UILabel"; text = "CAD"; ObjectID = "UVo-tI-3u8"; */
+"UVo-tI-3u8.text" = "CAD";
+
+/* Class = "UIButton"; normalTitle = "Connexion"; ObjectID = "Vhv-Ig-mxH"; */
+"Vhv-Ig-mxH.normalTitle" = "Connexion";
+
+/* Class = "UITextField"; placeholder = "Ancien réponse secrète"; ObjectID = "Xap-8d-EqV"; */
+"Xap-8d-EqV.placeholder" = "Ancien réponse secrète";
+
+/* Class = "UIButton"; normalTitle = "Creér le compte"; ObjectID = "Z7c-Kk-6Hi"; */
+"Z7c-Kk-6Hi.normalTitle" = "Creér le compte";
+
+/* Class = "UIButton"; normalTitle = "Confirmer"; ObjectID = "akQ-sv-pAt"; */
+"akQ-sv-pAt.normalTitle" = "Confirmer";
+
+/* Class = "UILabel"; text = "CryptoG"; ObjectID = "b2o-4U-MCw"; */
+"b2o-4U-MCw.text" = "CryptoG";
+
+/* Class = "UITextField"; placeholder = "Nouveau mot de passe"; ObjectID = "bF8-jL-XUH"; */
+"bF8-jL-XUH.placeholder" = "Nouveau mot de passe";
+
+/* Class = "UIButton"; normalTitle = "CONNECTER AVEC FACEBOOK"; ObjectID = "bic-Ca-BbA"; */
+"bic-Ca-BbA.normalTitle" = "CONNECTER AVEC FACEBOOK";
+
+/* Class = "UILabel"; text = "Pas convertible"; ObjectID = "c4S-Pr-TOf"; */
+"c4S-Pr-TOf.text" = "Pas convertible";
+
+/* Class = "UITextField"; placeholder = "Nouveau mot de passe"; ObjectID = "c9t-2E-SMh"; */
+"c9t-2E-SMh.placeholder" = "Nouveau mot de passe";
+
+/* Class = "UIBarButtonItem"; title = "Annuler"; ObjectID = "cWR-LL-1As"; */
+"cWR-LL-1As.title" = "Annuler";
+
+/* Class = "UITextField"; placeholder = "Confirmer le mot de passe"; ObjectID = "dLt-ZG-SI9"; */
+"dLt-ZG-SI9.placeholder" = "Confirmer le mot de passe";
+
+/* Class = "UITextField"; placeholder = "Réponse secrète"; ObjectID = "dPD-cg-2g8"; */
+"dPD-cg-2g8.placeholder" = "Réponse secrète";
+
+/* Class = "UILabel"; text = "CAD"; ObjectID = "dcb-qn-irE"; */
+"dcb-qn-irE.text" = "CAD";
+
+/* Class = "UILabel"; text = "CriptoG"; ObjectID = "eYl-xo-hCl"; */
+"eYl-xo-hCl.text" = "CriptoG";
+
+/* Class = "UITextField"; placeholder = "Confirmer le mot de passe"; ObjectID = "f9x-qZ-6Pz"; */
+"f9x-qZ-6Pz.placeholder" = "Confirmer le mot de passe";
+
+/* Class = "UILabel"; text = "Région du téléphone"; ObjectID = "fCs-G2-FDo"; */
+"fCs-G2-FDo.text" = "Région du téléphone";
+
+/* Class = "UILabel"; text = "CAD"; ObjectID = "gOa-MT-oCR"; */
+"gOa-MT-oCR.text" = "CAD";
+
+/* Class = "UITextField"; placeholder = "Question secrète"; ObjectID = "gZe-ce-6FG"; */
+"gZe-ce-6FG.placeholder" = "Question secrète";
+
+/* Class = "UIBarButtonItem"; title = "Return"; ObjectID = "ggK-2P-lub"; */
+"ggK-2P-lub.title" = "Return";
+
+/* Class = "UIBarButtonItem"; title = "Annuler"; ObjectID = "gqb-Tq-Nd3"; */
+"gqb-Tq-Nd3.title" = "Annuler";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hO5-MT-umA"; */
+"hO5-MT-umA.text" = "Label";
+
+/* Class = "UILabel"; text = "Photo de profil"; ObjectID = "hos-Wj-MRx"; */
+"hos-Wj-MRx.text" = "Photo de profil";
+
+/* Class = "UILabel"; text = "CAD"; ObjectID = "iIW-Zm-3Nm"; */
+"iIW-Zm-3Nm.text" = "CAD";
+
+/* Class = "UILabel"; text = "________ OU _________"; ObjectID = "jlU-VO-Dlc"; */
+"jlU-VO-Dlc.text" = "________ OU _________";
+
+/* Class = "UILabel"; text = "1.000000"; ObjectID = "l22-33-eH7"; */
+"l22-33-eH7.text" = "1.000000";
+
+/* Class = "UITextField"; placeholder = "Mot de passe"; ObjectID = "loQ-L1-wvW"; */
+"loQ-L1-wvW.placeholder" = "Mot de passe";
+
+/* Class = "UITextField"; placeholder = "Nom d'utilisateur"; ObjectID = "m0U-CC-2V3"; */
+"m0U-CC-2V3.placeholder" = "Nom d'utilisateur";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "nkA-kv-AL3"; */
+"nkA-kv-AL3.text" = "*";
+
+/* Class = "UIBarButtonItem"; title = "Annuler"; ObjectID = "pqU-PV-HaE"; */
+"pqU-PV-HaE.title" = "Annuler";
+
+/* Class = "UITextField"; placeholder = "Mot de passe"; ObjectID = "rmS-HB-pZ5"; */
+"rmS-HB-pZ5.placeholder" = "Mot de passe";
+
+/* Class = "UILabel"; text = "1.000000"; ObjectID = "tPv-Ux-VwI"; */
+"tPv-Ux-VwI.text" = "1.000000";
+
+/* Class = "UIBarButtonItem"; title = "Annuler"; ObjectID = "up8-Cc-UmH"; */
+"up8-Cc-UmH.title" = "Annuler";
+
+/* Class = "UIButton"; normalTitle = "Mot de passe oublié ?"; ObjectID = "xiQ-O1-NxA"; */
+"xiQ-O1-NxA.normalTitle" = "Mot de passe oublié ?";
+
+/* Class = "UILabel"; text = "Ripple"; ObjectID = "xxI-pp-XU4"; */
+"xxI-pp-XU4.text" = "Ripple";
+
+/* Class = "UIBarButtonItem"; title = "Annuler"; ObjectID = "ycf-2Y-YIn"; */
+"ycf-2Y-YIn.title" = "Annuler";
+
+/* Class = "UIButton"; normalTitle = "🇺🇸"; ObjectID = "z9O-qM-FsK"; */
+"z9O-qM-FsK.normalTitle" = "🇺🇸";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "zFQ-fd-drW"; */
+"zFQ-fd-drW.text" = "*";
+
+/* Class = "UILabel"; text = "Pas convertible"; ObjectID = "zs8-eU-oEA"; */
+"zs8-eU-oEA.text" = "Pas convertible";
+
+/* Class = "UIBarButtonItem"; title = "Return"; ObjectID = "zyU-W9-YCM"; */
+"zyU-W9-YCM.title" = "Return";
